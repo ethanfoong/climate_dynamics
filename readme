@@ -1,0 +1,14 @@
+This repository explores the dynamics between extreme temperature anomalies 
+and long-time series data that correspond between land tower observations and ocean buoys
+
+Under the advisory of UC Berkeley's Prof. Vargas Zeppetello,
+I was intially tasked to process and plot West Coast buoy data from the National Buoy Data Center.
+
+Through aggregating and analyzing such data, we are able to assess anomalies in extreme temperature through time-series statistics like skewness and variance to see which areas are more proned to temperature volatility, i.e. latitudes of 20* versus latitudes of 1-5*.
+
+We then aggregated the data through high computing facilities to plot the large NBDC dataset and then compared the differences between the buoy observations and land tower observations.
+
+More work in progress! Stay tuned.
+
+Ethan
+
